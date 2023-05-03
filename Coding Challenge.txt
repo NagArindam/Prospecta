@@ -1,0 +1,10 @@
+3. what are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable?
+
+Answer:= At the time of creating/consuming an API to all the keys are =>
+a) Input validation:= Validate all the user input to ensure that it is expected format.
+b) Authentication and Authorization:= We have to implement proper authentication and autorization technique to confirm that only ifthe user is authorized the he or she can access those API.
+c) Encryption:= Use the encryption technique to secure our data and showing the personal data.
+d) Error handling:= We have to implement proper error handling technique that if the user provide some wrong input then it is able to show the proper error message to the user.
+e) Testing:= We have to use this technique to the API to confirm that it works properly.
+
+Instead of this above technique we have to use data privacy, API reliablity etc to confirm that our API is secure and reliable. 
