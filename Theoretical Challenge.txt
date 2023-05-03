@@ -1,0 +1,17 @@
+1. To trackle the above challenge =>
+a) Read the CSV file into a data structure that can be manipulated very easily, we can consider as a list of dictionary.
+b) Create a dictionary to store the values and formulas for each of the cell.
+c) Iterate through each cell in the data structure and parse the value.
+d) For each of the value, store it in the dictionary.
+e) Write the results to a new CSV file.
+
+2. Type of errors I would check for =>
+a) Calculations errors:= Program should be able to handle all the errors in the formulas, we can say divide by zero errors.
+b) Parsing errors:= Program should be able to handle errors in the CSV file that is missing values.
+c) User input errors:=  Program should be able to handle errors that is caused by user inputs, we can say incorrect cell references.
+
+3. To prevent the user from breaking our code =>
+a) Error handling:= We have to implement error handling technique to provide some error messages to the user that will help the user for understatnding the errors.
+b) Input validation:= We have to validate the input to confirm to the expected data types and format.
+c) Documentation:= We have to provide clear documentation to proper guide to the user that how to use the program properly and expected input and output formats.
+d) User interface:= We have to provide user friendly interface to guide the user that how to use the program properly and expected input and output formats.
